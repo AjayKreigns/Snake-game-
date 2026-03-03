@@ -10,6 +10,8 @@ View your app in AI Studio: https://ai.studio/apps/f074c094-ac5b-4b0d-8314-c66b7
 
 ## Run Locally
 
+[https://snake-game-gamma-flax.vercel.app/](url)
+
 **Prerequisites:**  Node.js
 
 
